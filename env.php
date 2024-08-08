@@ -6,7 +6,7 @@ const DBPASS = "";
 const DBCHARSET = "utf8";
 const DBHOST = "127.0.0.1";
 
-const BASE_URL = "http://localhost/demo_php2/base/";
+const BASE_URL = "http://localhost/asm2_php2/base/";
 
 
 function redirect($key = "",$msg = "",$url ="") {
